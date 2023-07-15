@@ -9,6 +9,4 @@ Hello! Welcome to my GitHub profile! I'm Ahmet Hakan, a software developer who e
 - Website: [ahmhkn.com.tr](https://ahmhkn.com.tr)
 - Email: [me@ahmhkn.com.tr](mailto:me@ahmhkn.com.tr)
 
-Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to connect. I'm always excited to explore new ideas and contribute to interesting projects. Let's build something amazing together!
-
 <img align="left" alt="Ahmet Hakan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmhkn0&show_icons=true&theme=dracula&count_private=true" />
